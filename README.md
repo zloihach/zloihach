@@ -1,8 +1,8 @@
-- 👋 Salam, I’m @zloihach
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#,JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me inst @zloihach, tg @iwnttobreakfree
+- 👋 Salam, I’m @zloihach 🧔🏽
+- 👀 I’m interested in nothing ♾️
+- 🌱 I’m currently learning C#,JAVA 👨‍💻
+- 💞️ I’m looking to collaborate on WebPR 🕸️
+- 📫 How to reach me 📷Isnt: @zloihach, ✈️Telegram:t @iwnttobreakfree 📟
 
 <!---
 zloihach/zloihach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
