@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing ♾️
 - 🌱 I’m currently learning WEB-Tech👨‍💻
 - 💞️ I’m looking to collaborate on WebPR 🕸️
-- 📫 How to reach me 📷Inst: @zloihach, ✈️Telegram: @iwnttobreakfree 📟
+- 📫 How to reach me 📷Inst: @zloihach, ✈️Telegram: @fakecorleone 📟
 
 <!---
 zloihach/zloihach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
