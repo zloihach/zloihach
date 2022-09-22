@@ -1,4 +1,4 @@
-- 👋 Salam, I’m @zloihach 🧔🏽
+- 👋 Hi, I’m @zloihach 🧔🏽
 - 👀 I’m interested in nothing ♾️
 - 🌱 I’m currently learning WEB-Tech👨‍💻
 - 💞️ I’m looking to collaborate on WebPR 🕸️
