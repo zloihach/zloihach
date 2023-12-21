@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+![Zloihach GitHub stats](https://github-readme-stats.vercel.app/api?username=zloihach&show_icons=true&theme=onedark)
 - 👋 Hi, I’m @zloihach 🧔🏽
 - 👀 I’m interested in nothing ♾️
 - 🌱 I’m currently learning WEB-Tech👨‍💻
