@@ -2,6 +2,9 @@
 - 👀 I’m interested in nothing ♾️
 - 🌱 I’m currently learning WEB-Tech👨‍💻
 - 💞️ I’m looking to collaborate on WebPR 🕸️
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zloihach&hide=contribs,prs)
+
 <!---
 zloihach/zloihach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
