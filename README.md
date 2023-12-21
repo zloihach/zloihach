@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning WEB-Tech👨‍💻
 - 💞️ I’m looking to collaborate on WebPR 🕸️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zloihach&hide=contribs,prs)
+![Zloihach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zloihach&hide=contribs,prs)
+
+![Zloihach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zloihach&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!---
 zloihach/zloihach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
